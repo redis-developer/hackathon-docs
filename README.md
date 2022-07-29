@@ -1,4 +1,4 @@
-# [Insert App Title] demo
+# [Insert your hackathon title or the app's title (keep it short)]
 
 [Insert description of app]
 
