@@ -4,7 +4,7 @@
 
 [Insert app screenshots](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#uploading-assets)
 
-# Overview video
+# Overview video (Optional)
 
 Here's a short video that explains the project and how it uses Redis:
 
@@ -22,6 +22,10 @@ Refer to [this example](https://github.com/redis-developer/basic-analytics-dashb
 
 Refer to [this example](https://github.com/redis-developer/basic-analytics-dashboard-redis-bitmaps-nodejs#how-the-data-is-accessed) for a more detailed example of what you need for this section.
 
+### Performance Benchmarks
+
+[If you migrated an existing app to use Redis, please put performance benchmarks here to show the performance improvements.]
+
 ## How to run it locally?
 
 [Make sure you test this with a fresh clone of your repo, these instructions will be used to judge your app.]
@@ -36,7 +40,7 @@ Refer to [this example](https://github.com/redis-developer/basic-analytics-dashb
 
 ## Deployment
 
-To make deploys work, you need to create free account on [Redis Cloud](https://redis.info/try-free-hashhack)
+To make deploys work, you need to create free account on [Redis Cloud](https://redis.info/try-free-dev-to)
 
 ### Google Cloud Run
 
@@ -60,7 +64,7 @@ Here some resources to help you quickly get started using Redis Stack. If you st
 
 ### Getting Started
 
-1. Sign up for a [free Redis Cloud account using this link](https://redis.info/try-free-hashhack) and use the [Redis Stack database in the cloud](https://developer.redis.com/create/rediscloud).
+1. Sign up for a [free Redis Cloud account using this link](https://redis.info/try-free-dev-to) and use the [Redis Stack database in the cloud](https://developer.redis.com/create/rediscloud).
 1. Based on the language/framework you want to use, you will find the following client libraries:
     - [Redis OM .NET (C#)](https://github.com/redis/redis-om-dotnet)
         - Watch this [getting started video](https://www.youtube.com/watch?v=ZHPXKrJCYNA)
